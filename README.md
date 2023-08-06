@@ -1,3 +1,5 @@
+Note: This project is the result of learning the course Flutter & Dart: The Complete Guide taught by Maximilian Schwarzmuller on Udemy.
+
 Categories Page:
 
 ![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/ecd21632-49f1-41ce-8753-45cb89450bc9)
