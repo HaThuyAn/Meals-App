@@ -1,16 +1,17 @@
-# meals
+Categories Page:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/ecd21632-49f1-41ce-8753-45cb89450bc9)
 
-A new Flutter project.
+Dishes of A Categories:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/2a2d267c-445a-4c48-91fb-7bd39d42c618)
 
-## Getting Started
+Dish Details Page:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/c264c5d8-b442-44d5-8c62-b47f9b714323)
 
-This project is a starting point for a Flutter application.
+Favorites Page:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/42b111ae-331c-4961-a1ac-911cdab0e5a9)
 
-A few resources to get you started if this is your first Flutter project:
+Sidebar:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/0f7faf81-ce50-4681-b0fb-ad6c229355f1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Filter Page:
+![image](https://github.com/HaThuyAn/Meals-App/assets/90401104/e9c3946a-bc5f-40b9-bec2-ad00ff798e1c)
