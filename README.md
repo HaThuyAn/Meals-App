@@ -1,4 +1,4 @@
-Note: This project is the result of learning the course Flutter & Dart: The Complete Guide taught by Maximilian Schwarzmuller on Udemy.
+This project is the result of learning the course Flutter & Dart: The Complete Guide taught by Maximilian Schwarzmuller on Udemy.
 
 Categories Page:
 
